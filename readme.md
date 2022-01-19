@@ -1,5 +1,6 @@
 Command-line 1:
 ```
+git clone https://github.com/ChicoDeLosGatos/depeche-mode.git
 cd ./depeche-mode
 npm i zeromq
 node ./servant.js
